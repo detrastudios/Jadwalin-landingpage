@@ -1,0 +1,6 @@
+{
+  "name": "Jadwalin Landing Page",
+  "description": "Dashboard Manager Konten, Tim & Klien untuk Kreator dan Agensi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
